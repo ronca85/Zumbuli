@@ -1,6 +1,6 @@
 
-Double flowered varieties
-| ---------------------- | ---------- | ---------------- | --------- | ----------- |
+*Double flowered varieties*
+
 | NAME                   | CODE       | COLOR            | YEAR      | EXCLUSIVE   |
 | ---------------------- | ---------- | ---------------- | --------- | ----------- |
 | Chestnut Flower        |       29   |   Pale pink      |   1880    |   Yes       |
@@ -14,8 +14,8 @@ Double flowered varieties
 
 
 
-Single flowered varieties
-| ---------------------- | ---------- | ---------------- | --------- | ----------- |
+*Single flowered varieties*
+
 | NAME                   | CODE       | COLOR            | YEAR      | EXCLUSIVE   |
 | ---------------------- | ---------- | ---------------- | --------- | ----------- |
 | Adoree                 |       36   |   Mid-blue       |    2004   |   Yes       |
